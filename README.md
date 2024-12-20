@@ -15,22 +15,38 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:chinmayamrutkar01@gmail.com.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen"></a>
 </p>
 
+### 🚀 About Me  
+I am passionate about merging robotics, automation, and artificial intelligence to solve real-world problems. With hands-on experience in software testing, robotics, and factory automation, I thrive in high-pressure environments and excel at developing innovative solutions.  
+
+- **🌟 Robotics Enthusiast:** Developed a digital twin for the MyCobot Pro 600, enabling precise robot path planning and verification using Python, OpenCV, and MATLAB.  
+- **💡 Factory Automation:** Pioneered an automated ESD wristband monitoring system that ensured operator safety and minimized downtime in manufacturing.  
+- **🔍 Software Testing Pro:** Automated over 1,000+ test cases using Sikuli and OCR tools during my tenure at Hexagon Manufacturing Intelligence.  
+- **🌱 Lifelong Learner:** Constantly exploring the intersection of robotics, machine learning, and digital twins to drive innovation.  
+
 ---
 
-### 🚀 About Me
-I'm currently working on projects that combine machine learning, robotics, and automation.
-- 💼 **IT Asset Manager**: Skilled in setting up secured networks and managing hardware configurations for both laptops and desktops.
-- 👨‍💻 **Software Testing**: Developed automated Python scripts that reduced manual testing efforts during my time at Hexagon Manufacturing Intelligence.
-- 🤖 **AI & Robotics Projects**: Actively working on projects involving **PDDL** for robotic environment planning, including automating tasks in **cafeWorld** and **bookWorld** scenarios.
+### 🔧 Skills & Technologies  
+
+| **Programming Languages** | **Robotics & Automation**   | **AI/ML Tools**         | **Software Tools**         |  
+|----------------------------|-----------------------------|--------------------------|----------------------------|  
+| Python, C++, Java          | ROS, Arduino, MyCobot Pro  | TensorFlow, PyTorch      | SolidWorks, Fusion 360     |  
+| MATLAB, Shell Scripting    | Robot Path Planning        | Scikit-Learn             | Virtual Test Drive Software|  
+|                           | ESD Monitoring Systems      | YOLOv7                   | Git, Docker, CI/CD         |  
 
 ---
 
-### 🔧 Skills & Technologies
+### 💼 Work Experience  
 
-| **Programming Languages** | **AI/ML Tools** | **Robotics** | **Others** |
-| --------------------------| ----------------| -------------| -----------|
-| Python, C++                | TensorFlow, PyTorch | ROS, Gazebo | Git, Docker |
-| PDDL, Shell Scripting      | Scikit-Learn     | Arduino      | CI/CD Pipelines |
+#### Jabil Circuit India Private  
+**Graduate Engineer Trainee** *(Jan 2024 – July 2024)*  
+- Integrated Jabil Eye vision technology, achieving a **70% reduction** in defect detection time.  
+- Developed a temperature monitoring system, reducing PCB cycle time by **27%** post-soldering.  
+- Designed and implemented an **automated ESD monitoring system** to ensure compliance with industry standards.  
+
+#### Hexagon Manufacturing Intelligence  
+**R&D Intern** *(Feb 2023 – Aug 2023)*  
+- Automated software testing processes using **Sikuli** and OCR, increasing productivity.  
+- Gained expertise in tools like Virtual Test Drive Software and MSC Adams Software.  
 
 ---
 
@@ -38,33 +54,43 @@ I'm currently working on projects that combine machine learning, robotics, and a
 
 Here are some of the exciting projects I've worked on:
 
-- **📦 Autonomous Pizza Sorting System**  
+- **Design and Prototyping of Robotic Arm for Waste Sorting**<br>
+  *Trained a **YOLOv7** model on 2,000+ images for object detection of recyclable materials.*<br>
+  *Designed a 3-DOF robotic arm using **Arduino**, capable of handling payloads up to 200g.*<br>
+  **[GitHub Repo](https://github.com/yourusername/project)** 
+
+- **MyCobot Pro 600 Digital Twin**<br>
+  *Created a digital twin to enable **robot path planning** using Python and MATLAB.*<br>
+  *Calibrated robot coordinates with ArUco markers for precise positioning and seamless execution.*<br>
+  **[GitHub Repo](https://github.com/yourusername/project)** 
+
+- **Autonomous Pizza Sorting System**  
   *Built a PDDL-based system to sort pizzas based on their size for a cafe environment. Integrated automation tools to make the process efficient.*  
   **[GitHub Repo](https://github.com/yourusername/project)**  
 
-- **🚀 Virtual Test Drive Simulator Enhancements**  
+- **Virtual Test Drive Simulator Enhancements**  
   *Contributed to the development and testing of an autonomous driving simulation software, implementing automated testing to streamline the process.*  
   **[GitHub Repo](https://github.com/yourusername/project)**  
 
+### ✨ Publications  
+
+- **"Overview of Autonomous Vehicles and Its Challenges"** – Techno-Societal 2022, Springer.  
+- **"A state-of-the-art review on robotics in waste sorting"** – International Journal on Interactive Design and Manufacturing, vol. 17, 2023.  
+
 ---
 
-### 📈 GitHub Stats
+### 🏆 Leadership & Volunteer Work  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
-</p>
+- **Team Captain** – Electric Vehicle Design Team *(Jan 2020 – Jan 2023)*: Led a 14-member team in cross-functional collaboration for suspension and chassis design.  
+- **Robotics Volunteer** – Conducted workshops on robotics and IoT to inspire the next generation of engineers.
 
 ---
 
 ### ✉️ Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com) (If you have one)
-- **Email**: your.email@example.com
+- **LinkedIn**: [linkedin.com/in/chinmay-amrutkar](https://www.linkedin.com/in/chinmay-amrutkar-153375209)
+- **Resume**: [Resume_repo]([https://your-portfolio.com](https://github.com/ChinmayAmrutkar/Resume.git))
+- **Email**: chinmayamrutkar01@gmail.com
 
 ---
 
