@@ -57,7 +57,7 @@ Here are some of the exciting projects I've worked on:
 - **Design and Prototyping of Robotic Arm for Waste Sorting**<br>
   *Trained a **YOLOv7** model on 2,000+ images for object detection of recyclable materials.*<br>
   *Designed a 3-DOF robotic arm using **Arduino**, capable of handling payloads up to 200g.*<br>
-  **[GitHub Repo](https://github.com/yourusername/project)** 
+  **[GitHub Repo](https://github.com/ChinmayAmrutkar/Design_and_Prototyping_of_Robotic_Arm.git)** 
 
 - **MyCobot Pro 600 Digital Twin**<br>
   *Created a digital twin to enable **robot path planning** using Python and MATLAB.*<br>
