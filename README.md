@@ -60,8 +60,8 @@ Here are some of the exciting projects I've worked on:
   **[GitHub Repo](https://github.com/ChinmayAmrutkar/Design_and_Prototyping_of_Robotic_Arm.git)** 
 
 - **MyCobot Pro 600 Digital Twin**<br>
-  *Created a digital twin to enable **robot path planning** using Python and MATLAB.*<br>
-  *Calibrated robot coordinates with ArUco markers for precise positioning and seamless execution.*<br>
+  *Integrated computer vision and robotics for autonomous maze-solving by using Python (OpenCV) and MATLAB (inverse kinematics).* <br>
+  *Created a digital twin of MyCobot Pro 600 to enable **robot path planning and verification** using MATLAB.*<br>
   **[GitHub Repo](https://github.com/ChinmayAmrutkar/Integration-of-MyCobot-Pro-600-and-Digital-Twin-for-Maze-Navigation.git)** 
 
 - **Autonomous Pizza Sorting System**  
