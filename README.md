@@ -62,7 +62,7 @@ Here are some of the exciting projects I've worked on:
 - **MyCobot Pro 600 Digital Twin**<br>
   *Created a digital twin to enable **robot path planning** using Python and MATLAB.*<br>
   *Calibrated robot coordinates with ArUco markers for precise positioning and seamless execution.*<br>
-  **[GitHub Repo](https://github.com/yourusername/project)** 
+  **[GitHub Repo](https://github.com/ChinmayAmrutkar/Integration-of-MyCobot-Pro-600-and-Digital-Twin-for-Maze-Navigation.git)** 
 
 - **Autonomous Pizza Sorting System**  
   *Built a PDDL-based system to sort pizzas based on their size for a cafe environment. Integrated automation tools to make the process efficient.*  
