@@ -64,14 +64,6 @@ Here are some of the exciting projects I've worked on:
   *Created a digital twin of MyCobot Pro 600 to enable **robot path planning and verification** using MATLAB.*<br>
   **[GitHub Repo](https://github.com/ChinmayAmrutkar/Integration-of-MyCobot-Pro-600-and-Digital-Twin-for-Maze-Navigation.git)** 
 
-- **Autonomous Pizza Sorting System**  
-  *Built a PDDL-based system to sort pizzas based on their size for a cafe environment. Integrated automation tools to make the process efficient.*  
-  **[GitHub Repo](https://github.com/yourusername/project)**  
-
-- **Virtual Test Drive Simulator Enhancements**  
-  *Contributed to the development and testing of an autonomous driving simulation software, implementing automated testing to streamline the process.*  
-  **[GitHub Repo](https://github.com/yourusername/project)**  
-
 ### ✨ Publications  
 
 - **"Overview of Autonomous Vehicles and Its Challenges"** – Techno-Societal 2022, Springer.  
