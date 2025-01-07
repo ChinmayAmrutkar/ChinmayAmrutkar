@@ -68,7 +68,13 @@ Here are some of the exciting projects I've worked on:
 
 - **"Overview of Autonomous Vehicles and Its Challenges"** – Techno-Societal 2022, Springer.  
 - **"A state-of-the-art review on robotics in waste sorting"** – International Journal on Interactive Design and Manufacturing, vol. 17, 2023.  
-
+---
+### 🧑‍💻 My Learning Journey with ROS
+- I am actively documenting my journey through the Robot Operating System (ROS) in my dedicated repository, [Learning ROS Repository](https://github.com/ChinmayAmrutkar/Learning_ROS.git). This repository includes:
+    - Tutorials and Exercises: Covering ROS basics, navigation, SLAM, and more.
+    - Sample Projects: Real-world applications like path planning, obstacle avoidance, and SLAM using tools like Gmapping and Cartographer.
+    - Structured Learning Path: Designed to guide beginners through foundational and advanced concepts in ROS.
+    - [Repository Link](https://github.com/ChinmayAmrutkar/Learning_ROS.git)
 ---
 
 ### 🏆 Leadership & Volunteer Work  
