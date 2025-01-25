@@ -99,7 +99,7 @@ Here are some of the exciting projects I've worked on:
 ### ✉️ Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/chinmay-amrutkar](https://www.linkedin.com/in/chinmay-amrutkar-153375209)
-- **Resume**: [Resume_repo](https://github.com/ChinmayAmrutkar/Resume.git)
+- **Resume**: [Resume_repo](https://github.com/ChinmayAmrutkar/Resume/blob/main/Chinmay_Amrutkar_Resume.pdf)
 - **Email**: chinmayamrutkar01@gmail.com
 
 ---
