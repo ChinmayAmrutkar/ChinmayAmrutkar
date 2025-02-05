@@ -39,9 +39,9 @@ I am passionate about merging robotics, automation, and artificial intelligence 
 
 | **Programming Languages** | **Robotics & Automation**   | **AI/ML Tools**         | **Software Tools**         |  
 |----------------------------|-----------------------------|--------------------------|----------------------------|  
-| Python, C++, Java          | ROS, Arduino, MyCobot Pro  | TensorFlow, PyTorch      | SolidWorks, Fusion 360     |  
-| MATLAB, Shell Scripting    | Robot Path Planning        | Scikit-Learn             | Virtual Test Drive Software|  
-|                           | ESD Monitoring Systems      | YOLOv7                   | Git, Docker, CI/CD         |  
+| Python, C++, Java          | ROS, ROS2, Arduino, Raspberry Pi  | TensorFlow, PyTorch      | SolidWorks, Fusion 360     |  
+| MATLAB, Shell Scripting    | Drones, Robot Path Planning        | Scikit-Learn             | Virtual Test Drive Software|  
+|                           | ESD Monitoring Systems      | YOLOv7                   | Git, Docker, Adams        |  
 
 ---
 
