@@ -75,6 +75,7 @@ Here are some of the exciting projects I've worked on:
   **[GitHub Repo](https://github.com/ChinmayAmrutkar/Integration-of-MyCobot-Pro-600-and-Digital-Twin-for-Maze-Navigation.git)** <br>
   ![RAS_Final_Project_GIF](https://github.com/user-attachments/assets/0757dc43-22e4-4c52-b6de-e3589aac3ccf)
 
+---
 
 ### ✨ Publications - ([Google Scholar Profile](https://scholar.google.com/citations?user=a7ymhIIAAAAJ&hl=en))  
 
