@@ -75,6 +75,12 @@ Here are some of the exciting projects I've worked on:
   **[GitHub Repo](https://github.com/ChinmayAmrutkar/Integration-of-MyCobot-Pro-600-and-Digital-Twin-for-Maze-Navigation.git)** <br>
   ![RAS_Final_Project_GIF](https://github.com/user-attachments/assets/0757dc43-22e4-4c52-b6de-e3589aac3ccf)
 
+- **First-Order Boustrophedon Navigator**<br>
+  *Developed a precise boustrophedon survey algorithm using ROS2 and Turtlesim, adaptable for rover navigation in space exploration, precision agriculture, and more.* <br>
+  *Tuned a **PD controller** to minimize cross-track error and achieve a uniform boustrophedon (lawnmower) pattern for optimal area coverage.*<br>
+  **[GitHub Repo](https://github.com/ChinmayAmrutkar/RAS-SES-598-Space-Robotics-and-AI/blob/main/assignments/first_order_boustrophedon_navigator/README.md)** <br>
+  ![image](https://github.com/user-attachments/assets/38ba4f5b-88e4-4e7c-8423-b96feac92bd0)
+
 ---
 
 ### ✨ Publications - ([Google Scholar Profile](https://scholar.google.com/citations?user=a7ymhIIAAAAJ&hl=en))  
@@ -94,7 +100,6 @@ Here are some of the exciting projects I've worked on:
 
 - **Team Captain** – Electric Vehicle Design Team *(Jan 2020 – Jan 2023)*: Led a 14-member team in cross-functional collaboration for suspension and chassis design.  
 - **Robotics Volunteer** – Conducted workshops on robotics and IoT to inspire the next generation of engineers.
-
 ---
 
 ### ✉️ Let's Connect
