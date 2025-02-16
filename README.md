@@ -99,7 +99,8 @@ Here are some of the exciting projects I've worked on:
 ### 🏆 Leadership & Volunteer Work  
 
 - **Team Captain** – Electric Vehicle Design Team *(Jan 2020 – Jan 2023)*: Led a 14-member team in cross-functional collaboration for suspension and chassis design.  
-- **Robotics Volunteer** – Conducted workshops on robotics and IoT to inspire the next generation of engineers.
+- **Robotics Volunteer** – Conducted workshops on robotics and IoT to inspire the next generation of engineers. <br>
+- **Volunteer, Center for Human, Artificial Intelligence, and Robot Teaming (CHART) – Arizona State University:** Contributed to research on distributed human–AI–robot teaming in mission-critical scenarios and gained hands-on experience with collaborative robots including FETCH, HUSKY, UR5, ABB Yumi, Turtle Bot, and RoboMaster by DJI.
 ---
 
 ### ✉️ Let's Connect
