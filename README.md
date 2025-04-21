@@ -1,4 +1,3 @@
-
 <!---
 ChinmayAmrutkar/ChinmayAmrutkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -6,111 +5,114 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi there! 👋 I'm Chinmay Amrutkar</h1>
 
 <p align="center">
-  <em>An AI and Robotics Enthusiast with a Strong passion for building intelligent systems that can interact with the real world</em>
+  <em>AI & Robotics Engineer | Building Intelligent Systems for the Real World</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chinmay-amrutkar-153375209"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
-  <a href="https://github.com/ChinmayAmrutkar"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
-  <a href="mailto:chinmayamrutkar01@gmail.com.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen"></a>
+  <a href="https://github.com/ChinmayAmrutkar"><img src="https://img.shields.io/github/followers/ChinmayAmrutkar?label=Follow&style=social"></a>
+  <a href="mailto:chinmayamrutkar01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen"></a>
 </p>
 
+---
+
 ### 🚀 About Me  
-I am passionate about merging robotics, automation, and artificial intelligence to solve real-world problems. With hands-on experience in software testing, robotics, and factory automation, I thrive in high-pressure environments and excel at developing innovative solutions.  
 
-- **🌟 Robotics Enthusiast:** Developed a digital twin for the MyCobot Pro 600, enabling precise robot path planning and verification using Python, OpenCV, and MATLAB.
-- **🏆 Team Captain:** Led a team which Designs and Manufactures Electric Vehicles
-- **💡 Factory Automation:** Pioneered an automated ESD wristband monitoring system that ensured operator safety and minimized downtime in manufacturing.  
-- **🔍 Software Testing Pro:** Automated over 1,000+ test cases using Sikuli and OCR tools during my tenure at Hexagon Manufacturing Intelligence.  
-- **🌱 Lifelong Learner:** Constantly exploring the intersection of robotics, machine learning, and digital twins to drive innovation.  
+I'm a Robotics and AI enthusiast deeply passionate about creating autonomous systems that interact with the physical world. With hands-on experience in robotics, factory automation, and software testing, I love solving real-world problems using intelligent systems.
 
----
-
-### 🎓 Education <br>
-* **Master of Science in Robotics and Autonomous Systems (Artificial Intelligence)** – Arizona State University, Tempe, AZ _(Aug 2024 - Present)_
-  - Coursework: Artificial Intelligence, Robotic Systems 1, Space Robotics and AI, Machine Vision and Pattern Recognition, Robotic Systems 2
-
-* **Bachelor of Technology in Robotics and Automation** – MIT World Peace University, Pune, India _(Aug 2019 - May 2023)_
-  - Graduated as a Gold Medalist 🏅
+- 🧠 **AI-Driven Robotics:** Developed a digital twin for MyCobot Pro 600 for intelligent path planning using Python, OpenCV & MATLAB.
+- 🔩 **Factory Automation:** Engineered an ESD wristband monitoring system to ensure safety and minimize production downtime at Jabil.
+- ⚡ **Software Test Automation:** Automated 1000+ GUI-based test cases using Sikuli, Java, and OCR at Hexagon, streamlining the QA process.
+- 🚗 **EV Leadership:** Led an electric vehicle design team through multi-disciplinary projects involving chassis and suspension systems.
+- 🌍 **Tech for Good:** Constantly exploring the use of robotics and AI to address real-world challenges in sustainability, healthcare, and manufacturing.
 
 ---
 
-### 🔧 Skills & Technologies  
+### 🎓 Education  
+- **M.S. in Robotics and Autonomous Systems (AI)** – *Arizona State University* (Aug 2024 – Present)  
+  _Courses: Robotic Systems, Machine Vision, Space Robotics, AI for Robotics_  
 
-| **Programming Languages** | **Robotics & Automation**   | **AI/ML Tools**         | **Software Tools**         |  
-|----------------------------|-----------------------------|--------------------------|----------------------------|  
-| Python, C++, Java          | ROS, ROS2, Arduino, Raspberry Pi  | TensorFlow, PyTorch      | SolidWorks, Fusion 360     |  
-| MATLAB, Shell Scripting    | Drones, Robot Path Planning        | Scikit-Learn             | Virtual Test Drive Software|  
-|                           | ESD Monitoring Systems      | YOLOv7                   | Git, Docker, Adams        |  
+- **B.Tech in Robotics and Automation** – *MIT World Peace University, Pune* (Aug 2019 – May 2023)  
+  _Graduated as **Gold Medalist** 🏅_
 
 ---
 
 ### 💼 Work Experience  
 
-#### Jabil Circuit India Private  
-**Graduate Engineer Trainee** *(Jan 2024 – July 2024)*  
-- Integrated Jabil Eye vision technology, achieving a **70% reduction** in defect detection time.  
-- Developed a temperature monitoring system, reducing PCB cycle time by **27%** post-soldering.  
-- Designed and implemented an **automated ESD monitoring system** to ensure compliance with industry standards.  
+**🔧 Jabil Circuit India Pvt. Ltd.**  
+_Graduate Engineer Trainee (Jan 2024 – Jul 2024)_  
+- Integrated AI-based vision system (Jabil Eye) — **70% reduction** in defect detection time.  
+- Created a post-solder temperature monitoring system reducing PCB cycle time by **27%**.  
+- Designed and deployed a robust **automated ESD monitoring system**.
 
-#### Hexagon Manufacturing Intelligence  
-**R&D Intern** *(Feb 2023 – Aug 2023)*  
-- Automated software testing processes using **Sikuli** and OCR, increasing productivity.  
-- Gained expertise in tools like Virtual Test Drive Software and MSC Adams Software.  
+**🔬 Hexagon Manufacturing Intelligence**  
+_R&D Intern (Feb 2023 – Aug 2023)_  
+- Developed a GUI automation tool for non-coders using **Sikuli + OCR**.  
+- Automated 1000+ test cases for Adams software, significantly improving QA cycle times.  
+- Explored **Adams**, **Virtual Test Drive**, and **ROD** toolchains.
 
 ---
 
-### 🏆 Featured Projects
+### 🛠️ Skills & Technologies  
 
-Here are some of the exciting projects I've worked on:
+| Programming        | Robotics & Hardware      | AI & Vision                | Tools & Platforms            |
+|--------------------|--------------------------|----------------------------|------------------------------|
+| Python, C++, Java  | ROS/ROS2, Arduino, Drones| TensorFlow, PyTorch, YOLO  | Git, Docker, MATLAB, Adams   |
+| MATLAB, Shell      | MyCobot, UR5, TurtleBot  | OpenCV, Scikit-learn       | SolidWorks, Fusion 360       |
 
-- **Design and Prototyping of Robotic Arm for Waste Sorting**<br>
-  *Trained a **YOLOv7** model on 2,000+ images for object detection of recyclable materials.*<br>
-  *Designed a 3-DOF robotic arm using **Arduino**, capable of handling payloads up to 200g.*<br>
-  **[GitHub Repo](https://github.com/ChinmayAmrutkar/Design_and_Prototyping_of_Robotic_Arm.git)** 
+---
 
-- **Integration of MyCobot Pro 600 and Digital Twin for Maze Navigation**<br>
-  *Integrated computer vision and robotics for autonomous maze-solving by using Python (OpenCV) and MATLAB (inverse kinematics).* <br>
-  *Created a digital twin of MyCobot Pro 600 to enable **robot path planning and verification** using MATLAB.*<br>
-  **[GitHub Repo](https://github.com/ChinmayAmrutkar/Integration-of-MyCobot-Pro-600-and-Digital-Twin-for-Maze-Navigation.git)** <br>
+### 🌟 Featured Projects  
+
+- **🗑️ Robotic Arm for Trash Sorting**  
+  Trained a YOLOv7 model on 2,000+ images for recyclable object detection.  
+  Designed and built a 3-DOF robotic arm for automated sorting.  
+  🔗 [GitHub Repo](https://github.com/ChinmayAmrutkar/Design_and_Prototyping_of_Robotic_Arm.git)
+
+- **🤖 MyCobot + Digital Twin Navigation**  
+  Maze-solving robot using OpenCV for vision & MATLAB for inverse kinematics.  
+  Built a digital twin of the MyCobot Pro 600 for safe offline simulation.  
+  🔗 [GitHub Repo](https://github.com/ChinmayAmrutkar/Integration-of-MyCobot-Pro-600-and-Digital-Twin-for-Maze-Navigation.git)  
   ![RAS_Final_Project_GIF](https://github.com/user-attachments/assets/0757dc43-22e4-4c52-b6de-e3589aac3ccf)
 
-- **First-Order Boustrophedon Navigator**<br>
-  *Developed a precise boustrophedon survey algorithm using ROS2 and Turtlesim, adaptable for rover navigation in space exploration, precision agriculture, and more.* <br>
-  *Tuned a **PD controller** to minimize cross-track error and achieve a uniform boustrophedon (lawnmower) pattern for optimal area coverage.*<br>
-  **[GitHub Repo](https://github.com/ChinmayAmrutkar/RAS-SES-598-Space-Robotics-and-AI/blob/main/assignments/first_order_boustrophedon_navigator/README.md)** <br>
+- **🚜 First-Order Boustrophedon Navigator**  
+  Created a lawnmower-like area coverage system using ROS2 + Turtlesim.  
+  Tuned PD control for minimal cross-track error.  
+  🔗 [GitHub Repo](https://github.com/ChinmayAmrutkar/RAS-SES-598-Space-Robotics-and-AI/blob/main/assignments/first_order_boustrophedon_navigator/README.md)  
   ![image](https://github.com/user-attachments/assets/38ba4f5b-88e4-4e7c-8423-b96feac92bd0)
 
 ---
 
-### ✨ Publications - ([Google Scholar Profile](https://scholar.google.com/citations?user=a7ymhIIAAAAJ&hl=en))  
+### 📚 Publications  
+- **"Overview of Autonomous Vehicles and Its Challenges"** – *Springer, Techno-Societal 2022*  
+- **"A Review on Robotics in Waste Sorting"** – *IJIDeM, Vol. 17, 2023*  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=a7ymhIIAAAAJ&hl=en)
 
-- **"Overview of Autonomous Vehicles and Its Challenges"** – Techno-Societal 2022, Springer.  
-- **"A state-of-the-art review on robotics in waste sorting"** – International Journal on Interactive Design and Manufacturing, vol. 17, 2023.  
----
-### 🧑‍💻 My Learning Journey with ROS
-- I am actively documenting my journey through the Robot Operating System (ROS) in my dedicated repository, [Learning ROS Repository](https://github.com/ChinmayAmrutkar/Learning_ROS.git). This repository includes:
-    - Tutorials and Exercises: Covering ROS basics, navigation, SLAM, and more.
-    - Sample Projects: Real-world applications like path planning, obstacle avoidance, and SLAM using tools like Gmapping and Cartographer.
-    - Structured Learning Path: Designed to guide beginners through foundational and advanced concepts in ROS.
-    - [Repository Link](https://github.com/ChinmayAmrutkar/Learning_ROS.git)
 ---
 
-### 🏆 Leadership & Volunteer Work  
+### 🤖 Learning Journey – ROS Repository  
+I'm documenting my hands-on learning in ROS:  
+🔧 [Learning ROS Repository](https://github.com/ChinmayAmrutkar/Learning_ROS.git)  
+- Covers ROS basics, Gmapping, Cartographer, SLAM, Navigation, and Path Planning  
+- Includes practical examples and project-based implementations  
+- Ideal for beginners & intermediate ROS learners  
 
-- **Team Captain** – Electric Vehicle Design Team *(Jan 2020 – Jan 2023)*: Led a 14-member team in cross-functional collaboration for suspension and chassis design.  
-- **Robotics Volunteer** – Conducted workshops on robotics and IoT to inspire the next generation of engineers. <br>
-- **Volunteer, Center for Human, Artificial Intelligence, and Robot Teaming (CHART) – Arizona State University:** Contributed to research on distributed human–AI–robot teaming in mission-critical scenarios and gained hands-on experience with collaborative robots including FETCH, HUSKY, UR5, ABB Yumi, Turtle Bot, and RoboMaster by DJI.
 ---
 
-### ✉️ Let's Connect
+### 🌱 Leadership & Outreach  
+- **🚘 EV Team Captain (2020–2023):** Led 14-member team in end-to-end electric vehicle design.  
+- **🤖 Robotics Workshops:** Conducted hands-on robotics & IoT sessions for undergrads and school students.  
+- **🔬 Research Volunteer @ CHART (ASU):** Worked with FETCH, UR5, HUSKY, and DJI RoboMaster on collaborative autonomy research.
 
-- **LinkedIn**: [linkedin.com/in/chinmay-amrutkar](https://www.linkedin.com/in/chinmay-amrutkar-153375209)
-- **Resume**: [Resume_repo](https://github.com/ChinmayAmrutkar/Resume/blob/main/Chinmay_Amrutkar_Resume.pdf)
-- **Email**: chinmayamrutkar01@gmail.com
+---
+
+### 📫 Let's Connect  
+- **LinkedIn:** [linkedin.com/in/chinmay-amrutkar](https://www.linkedin.com/in/chinmay-amrutkar-153375209)  
+- **Resume:** [Chinmay_Amrutkar_Resume.pdf](https://github.com/ChinmayAmrutkar/Resume/blob/main/Chinmay_Amrutkar_Resume.pdf)  
+- **Email:** chinmayamrutkar01@gmail.com  
 
 ---
 
 <p align="center">
-  <em>“I’m always excited to collaborate on AI, robotics, and automation projects. Let’s build the future together!”</em>
+  <em>“Let’s innovate with robotics and AI — I’m always open to collaborations and ideas!”</em>
 </p>
