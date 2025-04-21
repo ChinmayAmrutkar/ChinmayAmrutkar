@@ -55,47 +55,58 @@ _R&D Intern (Feb 2023 – Aug 2023)_
 
 ### 🛠️ Skills & Technologies  
 
-| Programming        | Robotics & Hardware      | AI & Vision                | Tools & Platforms            |
-|--------------------|--------------------------|----------------------------|------------------------------|
-| Python, C++, Java  | ROS/ROS2, Arduino, Drones| TensorFlow, PyTorch, YOLO  | Git, Docker, MATLAB, Adams   |
-| MATLAB, Shell      | MyCobot, UR5, TurtleBot  | OpenCV, Scikit-learn       | SolidWorks, Fusion 360       |
+| Programming        | Robotics & Hardware        | AI & Vision                      | Tools & Platforms               |
+|--------------------|----------------------------|----------------------------------|---------------------------------|
+| Python, C++, Java  | ROS/ROS2, Arduino, Drones  | YOLOv7/v8, OpenCV, Scikit-learn  | Git, Docker, MATLAB, Adams      |
+| MATLAB, Shell      | MyCobot, UR5, TurtleBot    | TensorFlow, PyTorch              | Simulink, Stateflow, Fusion360  |
 
 ---
 
 ### 🌟 Featured Projects  
 
 - **🗑️ Robotic Arm for Trash Sorting**  
-  Trained a YOLOv7 model on 2,000+ images for recyclable object detection.  
-  Designed and built a 3-DOF robotic arm for automated sorting.  
-  🔗 [GitHub Repo](https://github.com/ChinmayAmrutkar/Design_and_Prototyping_of_Robotic_Arm.git)
+  YOLOv7-based robotic waste classifier with a custom 3-DOF robotic arm.  
+  🔗 [Repo](https://github.com/ChinmayAmrutkar/Design_and_Prototyping_of_Robotic_Arm.git)
 
 - **🤖 MyCobot + Digital Twin Navigation**  
-  Maze-solving robot using OpenCV for vision & MATLAB for inverse kinematics.  
-  Built a digital twin of the MyCobot Pro 600 for safe offline simulation.  
-  🔗 [GitHub Repo](https://github.com/ChinmayAmrutkar/Integration-of-MyCobot-Pro-600-and-Digital-Twin-for-Maze-Navigation.git)  
-  ![RAS_Final_Project_GIF](https://github.com/user-attachments/assets/0757dc43-22e4-4c52-b6de-e3589aac3ccf)
+  Digital twin-based robot simulation using OpenCV + MATLAB inverse kinematics.  
+  🔗 [Repo](https://github.com/ChinmayAmrutkar/Integration-of-MyCobot-Pro-600-and-Digital-Twin-for-Maze-Navigation.git)  
+  ![MyCobot GIF](https://github.com/user-attachments/assets/0757dc43-22e4-4c52-b6de-e3589aac3ccf)
 
 - **🚜 First-Order Boustrophedon Navigator**  
-  Created a lawnmower-like area coverage system using ROS2 + Turtlesim.  
-  Tuned PD control for minimal cross-track error.  
-  🔗 [GitHub Repo](https://github.com/ChinmayAmrutkar/RAS-SES-598-Space-Robotics-and-AI/blob/main/assignments/first_order_boustrophedon_navigator/README.md)  
-  ![image](https://github.com/user-attachments/assets/38ba4f5b-88e4-4e7c-8423-b96feac92bd0)
+  ROS2-based area coverage path planner with PD control for minimal CTE.  
+  🔗 [Repo](https://github.com/ChinmayAmrutkar/RAS-SES-598-Space-Robotics-and-AI/blob/main/assignments/first_order_boustrophedon_navigator/README.md)
+
+- **🛸 Autonomous Line Following & Landing Drone (Parrot Mambo)**  
+  MATLAB Simulink + Stateflow-based image processing and flight control logic.  
+  Lightweight line and circle detection using custom filters and masking.  
+  🔗 [Repo](https://github.com/ChinmayAmrutkar/Autonomous-Line-Following-and-Landing-of-a-Parrot-Mambo-Minidrone-Using-Simulink)<br>
+![image](https://github.com/user-attachments/assets/5abadc9f-5c63-49c9-a5d8-76cf6f299851)
+
+
+- **📹 Machine Vision Projects**  
+  Repository for exploring OpenCV-based image processing, feature extraction, and blending.  
+  🔗 [Repo](https://github.com/ChinmayAmrutkar/Machine-Vision-Projects)
+
+- **🎤 InnovationHacks 2025: Interview Ranker**  
+  AI-powered video interview platform with sentiment + relevance analysis for job seekers and recruiters.  
+  🔗 [Repo](https://github.com/ChinmayAmrutkar/InnovationHacks-2025)<br>
+Watch PitchPerfect in action:  
+[![Watch the Demo](https://img.youtube.com/vi/va2O2VBwE1o/0.jpg)](https://youtu.be/va2O2VBwE1o)
 
 ---
 
-### 📚 Publications  
+### 📚 Publications  [Google Scholar](https://scholar.google.com/citations?user=a7ymhIIAAAAJ&hl=en)
 - **"Overview of Autonomous Vehicles and Its Challenges"** – *Springer, Techno-Societal 2022*  
 - **"A Review on Robotics in Waste Sorting"** – *IJIDeM, Vol. 17, 2023*  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=a7ymhIIAAAAJ&hl=en)
+
 
 ---
 
 ### 🤖 Learning Journey – ROS Repository  
-I'm documenting my hands-on learning in ROS:  
 🔧 [Learning ROS Repository](https://github.com/ChinmayAmrutkar/Learning_ROS.git)  
-- Covers ROS basics, Gmapping, Cartographer, SLAM, Navigation, and Path Planning  
-- Includes practical examples and project-based implementations  
-- Ideal for beginners & intermediate ROS learners  
+- Covers ROS basics, SLAM, Navigation, and real-world robot applications  
+- Great for beginners and intermediate learners looking to build ROS fluency
 
 ---
 
