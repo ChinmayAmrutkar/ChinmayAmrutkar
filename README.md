@@ -1,3 +1,4 @@
+```
 <!---
 ChinmayAmrutkar/ChinmayAmrutkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -81,25 +82,31 @@ _R&D Intern (Feb 2023 – Aug 2023)_
   MATLAB Simulink + Stateflow-based image processing and flight control logic.  
   Lightweight line and circle detection using custom filters and masking.  
   🔗 [Repo](https://github.com/ChinmayAmrutkar/Autonomous-Line-Following-and-Landing-of-a-Parrot-Mambo-Minidrone-Using-Simulink)<br>
-![image](https://github.com/user-attachments/assets/5abadc9f-5c63-49c9-a5d8-76cf6f299851)
-
+  ![Drone Project](https://github.com/user-attachments/assets/5abadc9f-5c63-49c9-a5d8-76cf6f299851)
 
 - **📹 Machine Vision Projects**  
-  Repository for exploring OpenCV-based image processing, feature extraction, and blending.  
+  OpenCV-based projects covering feature detection, 3D reconstruction, and calibration techniques.  
   🔗 [Repo](https://github.com/ChinmayAmrutkar/Machine-Vision-Projects)
+
+- **🎯 Camera Calibration and Epipolar Geometry**  
+  Camera intrinsic calibration using checkerboards and fundamental matrix estimation from stereo images.  
+  🔗 [Repo](https://github.com/ChinmayAmrutkar/Machine-Vision-Projects/tree/main/camera-calibration-epipolar-geometry)
+
+- **🪨 3D Reconstruction of ARISPE Meteorite using NeRF**  
+  Captured real-world dataset, trained NeRF models (Instant-NGP, Nerfacto, TensoRF) and performed comparative analysis.  
+  🔗 [Repo](https://github.com/ChinmayAmrutkar/Machine-Vision-Projects/tree/main/3D-Reconstruction-of-ARISPE-Meteorite-using-Neural-Radiance-Fields)
 
 - **🎤 InnovationHacks 2025: Interview Ranker**  
   AI-powered video interview platform with sentiment + relevance analysis for job seekers and recruiters.  
   🔗 [Repo](https://github.com/ChinmayAmrutkar/InnovationHacks-2025)<br>
-Watch PitchPerfect in action:  
-[![Watch the Demo](https://img.youtube.com/vi/va2O2VBwE1o/0.jpg)](https://youtu.be/va2O2VBwE1o)
+  Watch PitchPerfect in action:  
+  [![Watch the Demo](https://img.youtube.com/vi/va2O2VBwE1o/0.jpg)](https://youtu.be/va2O2VBwE1o)
 
 ---
 
 ### 📚 Publications  [Google Scholar](https://scholar.google.com/citations?user=a7ymhIIAAAAJ&hl=en)
 - **"Overview of Autonomous Vehicles and Its Challenges"** – *Springer, Techno-Societal 2022*  
 - **"A Review on Robotics in Waste Sorting"** – *IJIDeM, Vol. 17, 2023*  
-
 
 ---
 
@@ -127,3 +134,4 @@ Watch PitchPerfect in action:
 <p align="center">
   <em>“Let’s innovate with robotics and AI — I’m always open to collaborations and ideas!”</em>
 </p>
+```
