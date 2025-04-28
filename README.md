@@ -95,6 +95,10 @@ _R&D Intern (Feb 2023 – Aug 2023)_
   Captured real-world dataset, trained NeRF models (Instant-NGP, Nerfacto, TensoRF) and performed comparative analysis.  
   🔗 [Repo](https://github.com/ChinmayAmrutkar/Machine-Vision-Projects/tree/main/3D-Reconstruction-of-ARISPE-Meteorite-using-Neural-Radiance-Fields)
 
+https://github.com/user-attachments/assets/063fde07-1c46-44bd-ad95-e69cac353e20
+
+
+
 - **🎤 InnovationHacks 2025: Interview Ranker**  
   AI-powered video interview platform with sentiment + relevance analysis for job seekers and recruiters.  
   🔗 [Repo](https://github.com/ChinmayAmrutkar/InnovationHacks-2025)<br>
