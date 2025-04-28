@@ -1,4 +1,3 @@
-```
 <!---
 ChinmayAmrutkar/ChinmayAmrutkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -134,4 +133,4 @@ _R&D Intern (Feb 2023 – Aug 2023)_
 <p align="center">
   <em>“Let’s innovate with robotics and AI — I’m always open to collaborations and ideas!”</em>
 </p>
-```
+
