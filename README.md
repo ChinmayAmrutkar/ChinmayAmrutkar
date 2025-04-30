@@ -99,7 +99,7 @@ https://github.com/user-attachments/assets/063fde07-1c46-44bd-ad95-e69cac353e20
 
 
 
-- **🎤 InnovationHacks 2025: Interview Ranker**  
+- **🎤 InnovationHacks 2025: Pitch Perfect**  
   AI-powered video interview platform with sentiment + relevance analysis for job seekers and recruiters.  
   🔗 [Repo](https://github.com/ChinmayAmrutkar/InnovationHacks-2025)<br>
   Watch PitchPerfect in action:  
